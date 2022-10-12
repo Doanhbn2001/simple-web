@@ -1,0 +1,78 @@
+@media only screen and (min-width: 992px){
+	.p1{
+		background-image: url("view/index/1_destop.jpg");
+		height: 600px;
+	}
+	.p1 h1{
+		font-size: 80px;
+	}
+	.container-fluid{
+		margin-left: 80px;
+	}
+	.font1 h2{
+		font-size: 50px;
+	}
+	.font2{
+		font-size: 35px;
+	}
+	.block p{
+		font-size: 30px;
+	}
+	a{
+		font-size: 30px;
+	}
+	#lienhe_box2 h2{
+		font-size: 35px;
+	}
+	#lienhe_box2 p{
+		font-size: 30px;
+	}
+	.lienhe_col h5{
+		font-size: 25px;
+	}
+	.lienhe_col p{
+		font-size: 25px;
+	}
+	.mb-3 label{
+		font-size: 25px;
+	}
+	.mb-3 input{
+		font-size: 25px;
+	}
+	.border2 button{
+		font-size: 25px;
+	}
+	.thongtin img{
+		margin-left: 200px;
+		margin-right: 150px;
+	}
+	.lienhe_box{
+		width: 90%;
+	}
+	.border1{
+		border: none;
+	}
+	.border2{
+		border: none;
+		margin-top: 0px;
+	}
+	.border2 button{
+		margin-left: 45%;
+	}
+	.banner{
+		background-image: url("view/chua/banner_destop.jpg");
+		height: 300px;
+	}
+	.chua_col img{
+		padding: 20px;
+	}
+	.chua_layer:hover{
+	background: none;
+	}
+	.chua_layer p{
+		font-size: 40px;
+		font-weight: 900;
+		color: red;
+	}
+	
+}

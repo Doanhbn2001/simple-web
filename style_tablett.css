@@ -1,0 +1,43 @@
+@media only screen and (min-width: 768px) and (max-width: 992px){
+	.p1 h1{
+		font-size: 70px;
+	}
+	.font1 h2{
+		font-size: 40px;
+	}
+	.font2{
+		font-size: 25px;
+	}
+	.block p{
+		font-size: 25px;
+	}
+	a{
+		font-size: 25px;
+	}
+	.lienhe_col h5{
+		font-size: 25px;
+	}
+	.lienhe_col p{
+		font-size: 25px;
+	}
+	.mb-3 label{
+		font-size: 25px;
+	}
+	.mb-3 input{
+		font-size: 25px;
+	}
+	.border2 button{
+		font-size: 25px;
+	}
+	#lienhe_box2 h2{
+		font-size: 40px;
+	}
+	#lienhe_box2 p{
+		font-size: 25px;
+	}
+	.banner{
+		background-image: url("view/chua/banner_tablet.jpg");
+		height: 200px;
+	}
+	
+}
